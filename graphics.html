@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Create graphics</title>
+</head>
+
+<body>
+    <canvas id="myChart"></canvas>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <input type="file" name="inputfile" id="inputfile">
+    <br>
+
+    <pre id="output"></pre>
+
+    <script type="text/javascript">
+        document.getElementById('inputfile')
+            .addEventListener('change', function() {
+
+                var fr = new FileReader();
+                let str = "";
+                fr.onload = function() {
+                    str = fr.result;
+                    console.log(str);
+                    let b = str.split("\n");
+                    let numbers = [];
+                    let text = [];
+                    const name = b[0];
+                    for (let i = 1; i < b.length; i++) {
+                        text.push(b[i].substring(0, b[i].lastIndexOf(' ')));
+                        numbers.push(b[i].substring(b[i].lastIndexOf(' ')));
+                    }
+                    var ctx = document.getElementById('myChart').getContext('2d');
+                    var chart = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: text,
+                            datasets: [{
+                                label: name,
+                                backgroundColor: 'rgb(15, 82, 7)',
+                                borderColor: 'rgb(255, 99, 132)',
+                                data: numbers
+                            }]
+                        },
+                        options: {}
+                    });
+                }
+                fr.readAsText(this.files[0]);
+            })
+    </script>
+</body>
+
+</html>

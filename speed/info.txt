@@ -1,0 +1,8 @@
+query without and with indexes
+query_1 125 17
+query_2 256 30
+query_3 123 44
+query_4 183 11
+query_6 132 49
+query_7 161 21
+query_8 120 43

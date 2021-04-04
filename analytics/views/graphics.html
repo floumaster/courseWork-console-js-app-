@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Create graphics</title>
+</head>
+
+<body>
+    <canvas id="myChart"></canvas>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script type="text/javascript">
+        async function makechart() {
+            let str = '';
+            await fetch('chart.txt')
+                .then(response => response.text())
+                .then(text => str = text)
+            let arr = str.split('\n');
+            const title = arr[0];
+            let _numbers = [];
+            let _labels = [];
+            for (let i = 1; i < arr.length; i++) {
+                _numbers.push(arr[i].substring(arr[i].lastIndexOf(' ')));
+                _labels.push(arr[i].substring(0, arr[i].lastIndexOf(' ')));
+            }
+
+            var ctx = document.getElementById('myChart').getContext('2d');
+            var chart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: _labels,
+                    datasets: [{
+                        label: title,
+                        backgroundColor: 'rgb(15, 82, 7)',
+                        borderColor: 'rgb(255, 99, 132)',
+                        data: _numbers
+                    }]
+                },
+                options: {}
+            });
+        }
+        makechart();
+    </script>
+</body>
+
+</html>

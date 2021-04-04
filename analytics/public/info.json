@@ -1,0 +1,1226 @@
+[
+    {
+        "id": 23700,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 2077,
+        "subjectId": 6,
+        "topicId": 9255
+    },
+    {
+        "id": 67425,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 81102,
+        "subjectId": 18,
+        "topicId": 482
+    },
+    {
+        "id": 105102,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 18073,
+        "subjectId": 5,
+        "topicId": 624
+    },
+    {
+        "id": 129524,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 17963,
+        "subjectId": 12,
+        "topicId": 1857
+    },
+    {
+        "id": 135051,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 20024,
+        "subjectId": 33,
+        "topicId": 7390
+    },
+    {
+        "id": 170480,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 80763,
+        "subjectId": 28,
+        "topicId": 3923
+    },
+    {
+        "id": 199855,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 8746,
+        "subjectId": 24,
+        "topicId": 2544
+    },
+    {
+        "id": 230570,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 55624,
+        "subjectId": 4,
+        "topicId": 3959
+    },
+    {
+        "id": 295567,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 35439,
+        "subjectId": 14,
+        "topicId": 5930
+    },
+    {
+        "id": 331604,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 98580,
+        "subjectId": 17,
+        "topicId": 324
+    },
+    {
+        "id": 371566,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 99207,
+        "subjectId": 27,
+        "topicId": 5580
+    },
+    {
+        "id": 390279,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 50001,
+        "subjectId": 7,
+        "topicId": 5558
+    },
+    {
+        "id": 440349,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 5467,
+        "subjectId": 6,
+        "topicId": 7974
+    },
+    {
+        "id": 466106,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 74806,
+        "subjectId": 31,
+        "topicId": 6941
+    },
+    {
+        "id": 489832,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 8230,
+        "subjectId": 28,
+        "topicId": 7774
+    },
+    {
+        "id": 510798,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 38772,
+        "subjectId": 9,
+        "topicId": 339
+    },
+    {
+        "id": 511210,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 7153,
+        "subjectId": 17,
+        "topicId": 1213
+    },
+    {
+        "id": 520814,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 37770,
+        "subjectId": 15,
+        "topicId": 8640
+    },
+    {
+        "id": 574800,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 43497,
+        "subjectId": 30,
+        "topicId": 1656
+    },
+    {
+        "id": 577002,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 88177,
+        "subjectId": 24,
+        "topicId": 3483
+    },
+    {
+        "id": 585211,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 14867,
+        "subjectId": 13,
+        "topicId": 7089
+    },
+    {
+        "id": 680154,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 89866,
+        "subjectId": 25,
+        "topicId": 2842
+    },
+    {
+        "id": 684505,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 40948,
+        "subjectId": 27,
+        "topicId": 4196
+    },
+    {
+        "id": 713592,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 27861,
+        "subjectId": 4,
+        "topicId": 2296
+    },
+    {
+        "id": 746587,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 3,
+        "subjectId": 14,
+        "topicId": 744
+    },
+    {
+        "id": 792935,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 44288,
+        "subjectId": 7,
+        "topicId": 9531
+    },
+    {
+        "id": 796939,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 16269,
+        "subjectId": 22,
+        "topicId": 8749
+    },
+    {
+        "id": 808745,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 2115,
+        "subjectId": 26,
+        "topicId": 3742
+    },
+    {
+        "id": 822253,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 91136,
+        "subjectId": 12,
+        "topicId": 8900
+    },
+    {
+        "id": 837536,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 96527,
+        "subjectId": 23,
+        "topicId": 3422
+    },
+    {
+        "id": 853940,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 15589,
+        "subjectId": 35,
+        "topicId": 3340
+    },
+    {
+        "id": 861318,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 93492,
+        "subjectId": 19,
+        "topicId": 7764
+    },
+    {
+        "id": 880428,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 2026,
+        "subjectId": 9,
+        "topicId": 4793
+    },
+    {
+        "id": 881364,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 46197,
+        "subjectId": 20,
+        "topicId": 3760
+    },
+    {
+        "id": 917707,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 84108,
+        "subjectId": 13,
+        "topicId": 6574
+    },
+    {
+        "id": 962110,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 76779,
+        "subjectId": 31,
+        "topicId": 3215
+    },
+    {
+        "id": 971024,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 74932,
+        "subjectId": 14,
+        "topicId": 8778
+    },
+    {
+        "id": 1002525,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 60570,
+        "subjectId": 10,
+        "topicId": 5254
+    },
+    {
+        "id": 1004400,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 59083,
+        "subjectId": 21,
+        "topicId": 974
+    },
+    {
+        "id": 1024209,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 54717,
+        "subjectId": 22,
+        "topicId": 8652
+    },
+    {
+        "id": 1113676,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 36375,
+        "subjectId": 5,
+        "topicId": 4173
+    },
+    {
+        "id": 1119840,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 27445,
+        "subjectId": 34,
+        "topicId": 1036
+    },
+    {
+        "id": 1275875,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 36734,
+        "subjectId": 4,
+        "topicId": 7874
+    },
+    {
+        "id": 1314247,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 57394,
+        "subjectId": 34,
+        "topicId": 3249
+    },
+    {
+        "id": 1365289,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 79506,
+        "subjectId": 16,
+        "topicId": 760
+    },
+    {
+        "id": 1385760,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 67584,
+        "subjectId": 4,
+        "topicId": 32
+    },
+    {
+        "id": 1407235,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 82541,
+        "subjectId": 35,
+        "topicId": 1714
+    },
+    {
+        "id": 1461837,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 28279,
+        "subjectId": 24,
+        "topicId": 812
+    },
+    {
+        "id": 1472217,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 84669,
+        "subjectId": 31,
+        "topicId": 1453
+    },
+    {
+        "id": 1485551,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 84699,
+        "subjectId": 30,
+        "topicId": 9806
+    },
+    {
+        "id": 1509369,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 90833,
+        "subjectId": 9,
+        "topicId": 2179
+    },
+    {
+        "id": 1555758,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 68893,
+        "subjectId": 11,
+        "topicId": 6003
+    },
+    {
+        "id": 1608530,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 78251,
+        "subjectId": 8,
+        "topicId": 7664
+    },
+    {
+        "id": 1632721,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 92043,
+        "subjectId": 18,
+        "topicId": 6572
+    },
+    {
+        "id": 1694375,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 3638,
+        "subjectId": 11,
+        "topicId": 4922
+    },
+    {
+        "id": 1694944,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 70016,
+        "subjectId": 30,
+        "topicId": 2105
+    },
+    {
+        "id": 1696220,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 15985,
+        "subjectId": 12,
+        "topicId": 5582
+    },
+    {
+        "id": 1719937,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 38299,
+        "subjectId": 30,
+        "topicId": 4692
+    },
+    {
+        "id": 1737091,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 25869,
+        "subjectId": 28,
+        "topicId": 7671
+    },
+    {
+        "id": 1763636,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 52171,
+        "subjectId": 22,
+        "topicId": 4261
+    },
+    {
+        "id": 1775039,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 81960,
+        "subjectId": 14,
+        "topicId": 1832
+    },
+    {
+        "id": 1845903,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 30864,
+        "subjectId": 19,
+        "topicId": 7380
+    },
+    {
+        "id": 1847491,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 33038,
+        "subjectId": 13,
+        "topicId": 1071
+    },
+    {
+        "id": 1873922,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 1026,
+        "subjectId": 8,
+        "topicId": 7111
+    },
+    {
+        "id": 1888007,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 7617,
+        "subjectId": 18,
+        "topicId": 9216
+    },
+    {
+        "id": 1898572,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 91311,
+        "subjectId": 10,
+        "topicId": 173
+    },
+    {
+        "id": 1908299,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 82616,
+        "subjectId": 13,
+        "topicId": 8285
+    },
+    {
+        "id": 1952399,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 9964,
+        "subjectId": 24,
+        "topicId": 934
+    },
+    {
+        "id": 1953844,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 20779,
+        "subjectId": 6,
+        "topicId": 9717
+    },
+    {
+        "id": 1993513,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 1696,
+        "subjectId": 25,
+        "topicId": 5861
+    },
+    {
+        "id": 2005274,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 54103,
+        "subjectId": 12,
+        "topicId": 3274
+    },
+    {
+        "id": 2013564,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 52754,
+        "subjectId": 31,
+        "topicId": 8450
+    },
+    {
+        "id": 2057673,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 9283,
+        "subjectId": 7,
+        "topicId": 4155
+    },
+    {
+        "id": 2076458,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 29042,
+        "subjectId": 18,
+        "topicId": 8564
+    },
+    {
+        "id": 2131189,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 85405,
+        "subjectId": 4,
+        "topicId": 4981
+    },
+    {
+        "id": 2134363,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 2744,
+        "subjectId": 10,
+        "topicId": 5205
+    },
+    {
+        "id": 2222711,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 40957,
+        "subjectId": 26,
+        "topicId": 2949
+    },
+    {
+        "id": 2238721,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 77137,
+        "subjectId": 24,
+        "topicId": 7565
+    },
+    {
+        "id": 2304815,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 43799,
+        "subjectId": 28,
+        "topicId": 7101
+    },
+    {
+        "id": 2342611,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 46730,
+        "subjectId": 13,
+        "topicId": 3398
+    },
+    {
+        "id": 2357176,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 61345,
+        "subjectId": 19,
+        "topicId": 1259
+    },
+    {
+        "id": 2404278,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 61615,
+        "subjectId": 4,
+        "topicId": 7289
+    },
+    {
+        "id": 2430678,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 51029,
+        "subjectId": 17,
+        "topicId": 1258
+    },
+    {
+        "id": 2439870,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 23831,
+        "subjectId": 19,
+        "topicId": 3028
+    },
+    {
+        "id": 2451534,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 84780,
+        "subjectId": 11,
+        "topicId": 9121
+    },
+    {
+        "id": 2462346,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 97308,
+        "subjectId": 2,
+        "topicId": 7346
+    },
+    {
+        "id": 2465696,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 98796,
+        "subjectId": 35,
+        "topicId": 3232
+    },
+    {
+        "id": 2506660,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 50778,
+        "subjectId": 34,
+        "topicId": 5685
+    },
+    {
+        "id": 2546114,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 98413,
+        "subjectId": 5,
+        "topicId": 8556
+    },
+    {
+        "id": 2555899,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 21191,
+        "subjectId": 33,
+        "topicId": 8101
+    },
+    {
+        "id": 2556534,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 12585,
+        "subjectId": 21,
+        "topicId": 8591
+    },
+    {
+        "id": 2573788,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 26113,
+        "subjectId": 3,
+        "topicId": 9434
+    },
+    {
+        "id": 2592043,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 71682,
+        "subjectId": 30,
+        "topicId": 9387
+    },
+    {
+        "id": 2599611,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 34048,
+        "subjectId": 24,
+        "topicId": 9163
+    },
+    {
+        "id": 2616092,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 75425,
+        "subjectId": 16,
+        "topicId": 3335
+    },
+    {
+        "id": 2617689,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 72461,
+        "subjectId": 28,
+        "topicId": 199
+    },
+    {
+        "id": 2651732,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 8724,
+        "subjectId": 31,
+        "topicId": 9166
+    },
+    {
+        "id": 2699232,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 729,
+        "subjectId": 8,
+        "topicId": 5730
+    },
+    {
+        "id": 2702225,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 97131,
+        "subjectId": 11,
+        "topicId": 9599
+    },
+    {
+        "id": 2736382,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 69623,
+        "subjectId": 10,
+        "topicId": 6025
+    },
+    {
+        "id": 2765951,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 4670,
+        "subjectId": 13,
+        "topicId": 6259
+    },
+    {
+        "id": 2778948,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 52030,
+        "subjectId": 13,
+        "topicId": 9028
+    },
+    {
+        "id": 2780095,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 92540,
+        "subjectId": 8,
+        "topicId": 9817
+    },
+    {
+        "id": 2794670,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 49197,
+        "subjectId": 33,
+        "topicId": 7721
+    },
+    {
+        "id": 2833181,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 63380,
+        "subjectId": 12,
+        "topicId": 9306
+    },
+    {
+        "id": 2836415,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 97109,
+        "subjectId": 14,
+        "topicId": 9658
+    },
+    {
+        "id": 2838289,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 74502,
+        "subjectId": 5,
+        "topicId": 5515
+    },
+    {
+        "id": 2943159,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 6184,
+        "subjectId": 26,
+        "topicId": 799
+    },
+    {
+        "id": 2943397,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 98297,
+        "subjectId": 23,
+        "topicId": 6648
+    },
+    {
+        "id": 3009980,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 262,
+        "subjectId": 16,
+        "topicId": 7507
+    },
+    {
+        "id": 3114912,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 9136,
+        "subjectId": 13,
+        "topicId": 2597
+    },
+    {
+        "id": 3130867,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 93471,
+        "subjectId": 18,
+        "topicId": 3503
+    },
+    {
+        "id": 3166179,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 71610,
+        "subjectId": 27,
+        "topicId": 6477
+    },
+    {
+        "id": 3178856,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 56914,
+        "subjectId": 30,
+        "topicId": 2313
+    },
+    {
+        "id": 3185574,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 61524,
+        "subjectId": 18,
+        "topicId": 5274
+    },
+    {
+        "id": 3185660,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 15793,
+        "subjectId": 8,
+        "topicId": 9678
+    },
+    {
+        "id": 3188212,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 74375,
+        "subjectId": 33,
+        "topicId": 7848
+    },
+    {
+        "id": 3235870,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 48144,
+        "subjectId": 10,
+        "topicId": 6107
+    },
+    {
+        "id": 3245269,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 75076,
+        "subjectId": 8,
+        "topicId": 7830
+    },
+    {
+        "id": 3306610,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 51718,
+        "subjectId": 4,
+        "topicId": 3334
+    },
+    {
+        "id": 3315159,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 69169,
+        "subjectId": 32,
+        "topicId": 1098
+    },
+    {
+        "id": 3321996,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 96528,
+        "subjectId": 4,
+        "topicId": 2362
+    },
+    {
+        "id": 3346318,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 13063,
+        "subjectId": 32,
+        "topicId": 8026
+    },
+    {
+        "id": 3358337,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 55706,
+        "subjectId": 3,
+        "topicId": 4790
+    },
+    {
+        "id": 3358938,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 76937,
+        "subjectId": 8,
+        "topicId": 4541
+    },
+    {
+        "id": 3403805,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 54828,
+        "subjectId": 14,
+        "topicId": 6945
+    },
+    {
+        "id": 3447044,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 18084,
+        "subjectId": 19,
+        "topicId": 7670
+    },
+    {
+        "id": 3452761,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 43804,
+        "subjectId": 13,
+        "topicId": 4636
+    },
+    {
+        "id": 3535600,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 91938,
+        "subjectId": 14,
+        "topicId": 1547
+    },
+    {
+        "id": 3558718,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 92936,
+        "subjectId": 3,
+        "topicId": 1234
+    },
+    {
+        "id": 3563413,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 47459,
+        "subjectId": 28,
+        "topicId": 2185
+    },
+    {
+        "id": 3627100,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 3605,
+        "subjectId": 5,
+        "topicId": 498
+    },
+    {
+        "id": 3627444,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 17011,
+        "subjectId": 24,
+        "topicId": 9416
+    },
+    {
+        "id": 3633975,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 23271,
+        "subjectId": 25,
+        "topicId": 2284
+    },
+    {
+        "id": 3637321,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 48086,
+        "subjectId": 30,
+        "topicId": 7691
+    },
+    {
+        "id": 3642003,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 25381,
+        "subjectId": 28,
+        "topicId": 9596
+    },
+    {
+        "id": 3646652,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 13854,
+        "subjectId": 24,
+        "topicId": 7570
+    },
+    {
+        "id": 3663282,
+        "score": 9,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 12671,
+        "subjectId": 23,
+        "topicId": 5990
+    },
+    {
+        "id": 3665280,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 53615,
+        "subjectId": 5,
+        "topicId": 4387
+    },
+    {
+        "id": 3668174,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 27947,
+        "subjectId": 22,
+        "topicId": 6228
+    },
+    {
+        "id": 3675583,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 96962,
+        "subjectId": 6,
+        "topicId": 8739
+    },
+    {
+        "id": 3703064,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 17137,
+        "subjectId": 15,
+        "topicId": 3005
+    },
+    {
+        "id": 3705198,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 4552,
+        "subjectId": 16,
+        "topicId": 9319
+    },
+    {
+        "id": 3741943,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 43839,
+        "subjectId": 17,
+        "topicId": 4474
+    },
+    {
+        "id": 3750088,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 45517,
+        "subjectId": 23,
+        "topicId": 8828
+    },
+    {
+        "id": 3760014,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 95929,
+        "subjectId": 23,
+        "topicId": 1657
+    },
+    {
+        "id": 3851537,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 8335,
+        "subjectId": 16,
+        "topicId": 2100
+    },
+    {
+        "id": 3875036,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 21879,
+        "subjectId": 5,
+        "topicId": 1865
+    },
+    {
+        "id": 3889959,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 28961,
+        "subjectId": 25,
+        "topicId": 5688
+    },
+    {
+        "id": 3986319,
+        "score": 8,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 14213,
+        "subjectId": 10,
+        "topicId": 4041
+    },
+    {
+        "id": 3989624,
+        "score": 8,
+        "date": "2010-12-30T22:00:00.000Z",
+        "pupilId": 99645,
+        "subjectId": 24,
+        "topicId": 3369
+    },
+    {
+        "id": 4010283,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 66062,
+        "subjectId": 25,
+        "topicId": 7628
+    },
+    {
+        "id": 4011301,
+        "score": 9,
+        "date": "2010-12-31T22:00:00.000Z",
+        "pupilId": 91947,
+        "subjectId": 22,
+        "topicId": 5411
+    }
+]

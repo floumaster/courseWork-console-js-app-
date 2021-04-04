@@ -1,0 +1,172 @@
+[
+    {
+        "id": 2,
+        "grade": 1,
+        "letters": "А"
+    },
+    {
+        "id": 3,
+        "grade": 1,
+        "letters": "Б"
+    },
+    {
+        "id": 4,
+        "grade": 1,
+        "letters": "В"
+    },
+    {
+        "id": 5,
+        "grade": 2,
+        "letters": "А"
+    },
+    {
+        "id": 6,
+        "grade": 2,
+        "letters": "Б"
+    },
+    {
+        "id": 7,
+        "grade": 2,
+        "letters": "В"
+    },
+    {
+        "id": 8,
+        "grade": 3,
+        "letters": "А"
+    },
+    {
+        "id": 9,
+        "grade": 3,
+        "letters": "Б"
+    },
+    {
+        "id": 10,
+        "grade": 3,
+        "letters": "В"
+    },
+    {
+        "id": 11,
+        "grade": 4,
+        "letters": "А"
+    },
+    {
+        "id": 12,
+        "grade": 4,
+        "letters": "Б"
+    },
+    {
+        "id": 13,
+        "grade": 4,
+        "letters": "В"
+    },
+    {
+        "id": 14,
+        "grade": 5,
+        "letters": "А"
+    },
+    {
+        "id": 15,
+        "grade": 5,
+        "letters": "Б"
+    },
+    {
+        "id": 16,
+        "grade": 5,
+        "letters": "В"
+    },
+    {
+        "id": 17,
+        "grade": 6,
+        "letters": "А"
+    },
+    {
+        "id": 18,
+        "grade": 6,
+        "letters": "Б"
+    },
+    {
+        "id": 19,
+        "grade": 6,
+        "letters": "В"
+    },
+    {
+        "id": 20,
+        "grade": 7,
+        "letters": "А"
+    },
+    {
+        "id": 21,
+        "grade": 7,
+        "letters": "Б"
+    },
+    {
+        "id": 22,
+        "grade": 7,
+        "letters": "В"
+    },
+    {
+        "id": 23,
+        "grade": 8,
+        "letters": "А"
+    },
+    {
+        "id": 24,
+        "grade": 8,
+        "letters": "Б"
+    },
+    {
+        "id": 25,
+        "grade": 8,
+        "letters": "В"
+    },
+    {
+        "id": 26,
+        "grade": 9,
+        "letters": "А"
+    },
+    {
+        "id": 27,
+        "grade": 9,
+        "letters": "Б"
+    },
+    {
+        "id": 28,
+        "grade": 9,
+        "letters": "В"
+    },
+    {
+        "id": 29,
+        "grade": 10,
+        "letters": "А"
+    },
+    {
+        "id": 30,
+        "grade": 10,
+        "letters": "Б"
+    },
+    {
+        "id": 31,
+        "grade": 10,
+        "letters": "В"
+    },
+    {
+        "id": 32,
+        "grade": 11,
+        "letters": "А"
+    },
+    {
+        "id": 33,
+        "grade": 11,
+        "letters": "Б"
+    },
+    {
+        "id": 34,
+        "grade": 11,
+        "letters": "В"
+    },
+    {
+        "id": 37,
+        "grade": 4,
+        "letters": "А"
+    }
+]

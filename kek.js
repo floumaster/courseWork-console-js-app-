@@ -1,0 +1,3 @@
+var cmd = require('node-cmd');
+
+cmd.runSync('systemctl stop postgresql@12-slave.service && sudo -u postgres chmod 777 /var/lib/postgresql/12/slave && sudo rm -rf /var/lib/postgresql/12/slave/* && sudo -u postgres pg_basebackup -h 127.0.0.1 -p 5432 -U slave -D /var/lib/postgresql/12/slave/ -Fp -Xs -R && sudo -u postgres chmod 700 /var/lib/postgresql/12/slave && systemctl start postgresql@12-slave.service');

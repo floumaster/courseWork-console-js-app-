@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JS Pivot</title>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.23.0/pivot.min.css'>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.23.0/pivot.min.js'></script>
+    <script src='https://cdn.plot.ly/plotly-basic-latest.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.22.0/plotly_renderers.min.js'></script>
+
+</head>
+
+<body>
+    <div style="margin: 1em;" id="output"></div>
+
+    <script>
+        async function maketable() {
+            let arr = [];
+            await fetch("info.json").then(data => data.json()).then(data => {
+                arr = data
+            });
+            const atributes = Object.keys(arr[0]);
+            $("#output").pivotUI(
+                arr, {
+                    rows: atributes,
+                    cols: [],
+                    renderers: $.extend(
+                        $.pivotUtilities.renderers,
+                        $.pivotUtilities.plotly_renderers,
+
+                    )
+                });
+        }
+        maketable();
+    </script>
+</body>
+
+</html>
